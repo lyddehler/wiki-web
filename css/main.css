@@ -1,1 +1,12 @@
-css
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+body {
+  font-family: sans-serif;
+  background-color: #E8F5E9;
+  max-width: 40em;
+  padding: 0 5%;
+  margin: auto;
+  }
