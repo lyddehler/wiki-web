@@ -8,6 +8,9 @@ img {
  max-width: 500px;
  margin: auto;
 }
+h1 {
+  font-family: 'Satisfy', cursive;
+}
 body {
   font-family: sans-serif;
   background-color: #E0F2F1;
