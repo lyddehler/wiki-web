@@ -2,7 +2,9 @@
 .content {
   max-width: 500px;
   margin: auto;
+  padding: 25px 50px 75px 100px;
 }
+
 body {
   font-family: sans-serif;
   background-color: #E0F2F1;
